@@ -1,0 +1,28 @@
+Metadata-Version: 1.2
+Name: drone-dispatcher
+Version: 0.1.0
+Summary: A python script for dispatching drones
+Home-page: https://github.com/chrisgarber/drone_dispatcher
+Author: Chris Garber
+Author-email: christophermgarber@gmail.com
+License: GNU GPLv3
+Description: drone_dispatcher
+        ================
+        
+        An algorithm for connecting packages with a drone delivery service
+        
+        
+        Purpose
+        -------
+        This script gets a list of drones from the provided url, deserializes them to objects, then assigns them packages to deliver
+        
+        Usage
+        -----
+        
+Keywords: dispatching drones package destination location
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: GNU GPLv3
+Classifier: Programming Language :: Python :: 3.6.2
+Requires-Python: >=3

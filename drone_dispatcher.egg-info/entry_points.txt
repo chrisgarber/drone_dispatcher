@@ -1,0 +1,3 @@
+[console_scripts]
+drone_dispatcher = drone_dispatcher.__main__:main
+
