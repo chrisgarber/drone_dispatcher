@@ -10,3 +10,10 @@ This script gets a list of drones from the provided url, deserializes them to ob
 
 Usage
 -----
+use pip to install via this command
+
+-pip install drone_dispatcher
+
+then run with 
+
+-python drone_dispatcher
