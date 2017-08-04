@@ -29,7 +29,7 @@ setup(
 	name='drone_dispatcher',
     description="A python script for dispatching drones",
     long_description = longDescription,
-    version=find_version('drone_dispatcher/__init__.py'),
+    version=find_version('drone_dispatcher/drone_dispatcher.py'),
     author="Chris Garber",
     author_email="christophermgarber@gmail.com",
     url = 'https://github.com/chrisgarber/drone_dispatcher',

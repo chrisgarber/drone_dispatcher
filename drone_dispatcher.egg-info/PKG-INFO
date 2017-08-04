@@ -1,6 +1,6 @@
 Metadata-Version: 1.2
 Name: drone-dispatcher
-Version: 0.1.0
+Version: 0.1.1
 Summary: A python script for dispatching drones
 Home-page: https://github.com/chrisgarber/drone_dispatcher
 Author: Chris Garber

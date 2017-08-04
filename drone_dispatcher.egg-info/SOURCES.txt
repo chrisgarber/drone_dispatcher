@@ -2,7 +2,6 @@ LICENSE.txt
 MANIFEST.in
 README.rst
 setup.py
-drone_dispatcher/__init__.py
 drone_dispatcher/__main__.py
 drone_dispatcher/drone_dispatcher.py
 drone_dispatcher.egg-info/PKG-INFO
