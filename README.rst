@@ -16,4 +16,4 @@ You must download a recent version of python to use this script. Once installed 
 
 then run with 
 
--python drone_dispatcher
+-drone_dispatcher
